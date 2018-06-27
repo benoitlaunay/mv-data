@@ -1,0 +1,123 @@
+{
+	"tache-in": [
+		{
+			"nom": "Gouvernance SharePoint"
+		},
+		{
+			"nom": "Formations ?",
+			"détails": "Powershell"
+		},
+		{
+			"nom": "Custo. SharePoint | C#, CSS"
+		},
+		{
+			"nom": "Bonnes pratique de messagerie",
+			"détails": "sous forme de guide ?"
+		},
+		{
+			"nom": "Procédure réforme équipements informatiques"
+		},
+		{
+			"nom": "Téléphonie globale",
+			"détails": "- message vocal"
+		},
+		{
+			"nom": "Commission des marchés",
+			"détails": "Point assistance / maintenance AGFA Hexagone (CHN),\n3 juillet : WMS / Pharma"
+		}
+	],
+	"tache-startup": [
+		{
+			"nom": "SharePoint DSIO"
+		},
+		{
+			"nom": "archives messagerie Hughes Aumaître"
+		},
+		{
+			"nom": "RDV Dr Wernet",
+			"détails": " | 3 juillet aprèm."
+		},
+		{
+			"nom": "Contacter Microsoft pour les formations disponibles",
+			"détails": "stephane.maurat@microsoft.com"
+		},
+		{
+			"nom": "Gouvernance Teams"
+		},
+		{
+			"nom": "étendre gestion des lits à rendez-vous depuis crossway"
+		},
+		{
+			"nom": "Plateforme E-Learning"
+		},
+		{
+			"nom": "Renfort connaissances Qlikview",
+			"détails": "Youtube / Documentation dans t:\\"
+		},
+		{
+			"nom": "Dispo IP publique pour IPSEC",
+			"détails": "mettre en relation Fabien & Christian Garcia à ce sujet"
+		}
+	],
+	"tache-current": [
+		{
+			"nom": "CeGIDD | mise en place SiriusWeb"
+		},
+		{
+			"nom": "Ventilation ordinateurs / UF pour Sylvie Baziries"
+		},
+		{
+			"nom": "Surface HUB salle des instances, pont visio ?",
+			"suivi": "mail à econocom le 27 juin"
+		},
+		{
+			"nom": "Gestion des stock info"
+		},
+		{
+			"nom": "Installation. RJ 45 salle GOB 1097",
+			"suivi": "4932"
+		},
+		{
+			"nom": "Gestion des lits",
+			"suivi": "6406"
+		},
+		{
+			"nom": "Demander conseils administration SPO et Teams dans Office 365",
+			"détails": "Réponse attendue pour le 3 ou le 4 juillet de la part de Vincent Debrie (Projetlys)"
+		},
+		{
+			"nom": "Première tournée cadres de santé"
+		},
+		{
+			"nom": "étude WIFI Mater / néonat ",
+			"détails": "Demande SVP en cours, une réponse sera donnée par mail le 3 juillet"
+		},
+		{
+			"nom": "Polices code barre",
+			"détails": "Code128 | IDAutomationHC39M | Code39-Digits | Code 39ADI",
+			"suivi": "5413"
+		}
+	],
+	"tache-out": [
+		{
+			"nom": "Présentation aux cadres de santé"
+		},
+		{
+			"nom": "Devis / mémo écrans interactifs"
+		},
+		{
+			"nom": "Présentation architecture intranet DSIO"
+		},
+		{
+			"nom": "CeGIDD : interfaçage Sirius (proposition sirius web)"
+		},
+		{
+			"nom": "Points accès répertoires partagés Valérie Ibanès",
+			"suivi": "6311"
+		},
+		{
+			"nom": "ordinateurs CeGIDD : polices pour étiquettes",
+			"suivi": "6447"
+		}
+	]
+}
